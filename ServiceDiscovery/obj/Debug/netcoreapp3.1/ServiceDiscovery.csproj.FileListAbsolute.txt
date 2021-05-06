@@ -1,0 +1,13 @@
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\bin\Debug\netcoreapp3.1\ServiceDiscovery.exe
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\bin\Debug\netcoreapp3.1\ServiceDiscovery.deps.json
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\bin\Debug\netcoreapp3.1\ServiceDiscovery.runtimeconfig.json
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\bin\Debug\netcoreapp3.1\ServiceDiscovery.runtimeconfig.dev.json
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\bin\Debug\netcoreapp3.1\ServiceDiscovery.dll
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\bin\Debug\netcoreapp3.1\ServiceDiscovery.pdb
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\obj\Debug\netcoreapp3.1\ServiceDiscovery.csprojAssemblyReference.cache
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\obj\Debug\netcoreapp3.1\ServiceDiscovery.AssemblyInfoInputs.cache
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\obj\Debug\netcoreapp3.1\ServiceDiscovery.AssemblyInfo.cs
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\obj\Debug\netcoreapp3.1\ServiceDiscovery.csproj.CoreCompileInputs.cache
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\obj\Debug\netcoreapp3.1\ServiceDiscovery.dll
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\obj\Debug\netcoreapp3.1\ServiceDiscovery.pdb
+C:\GitHub\ServiceDiscovery\ServiceDiscovery\obj\Debug\netcoreapp3.1\ServiceDiscovery.genruntimeconfig.cache
